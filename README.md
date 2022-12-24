@@ -15,6 +15,7 @@ In the iSH app
 
 Discovery
 - See examples... `cat phoney/discover/nmap-examples.md`
+- **Nope this does not work**
 
 Webserver
 - Run webserver... `phoney/web/serve.sh`
