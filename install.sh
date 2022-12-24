@@ -6,4 +6,5 @@ apk add \
   vim \
   git \
   python3 \
+  nmap \
   tmux
